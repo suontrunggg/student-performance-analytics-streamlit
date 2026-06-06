@@ -1,0 +1,10 @@
+
+---
+
+## Bước 4: Mở Anaconda Prompt tại folder đó
+
+Trong Anaconda Prompt chạy:
+
+```bash
+D:
+cd "D:\student-performance-streamlit"
